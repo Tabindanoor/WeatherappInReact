@@ -1,0 +1,31 @@
+.form{
+    background-color: rgb(116, 192, 222);
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    width: 30%;
+    box-sizing: border-box;
+    border: 1px solid rgb(52, 178, 228);
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.body{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.input{
+    border-radius: 20px;
+    border: 1px solid rgb(116, 192, 222);
+    padding: 10px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    width: 50%;
+    height: 20%;
+}
+.grad{
+    background: linear-gradient(90deg, rgb(177, 174, 220) 0%, rgb(125, 194, 202) 1%, rgb(155, 214, 226) 100%);
+    border-radius: 20px;
+}
